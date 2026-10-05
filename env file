@@ -1,0 +1,6 @@
+GEMINI_API_KEY="AQ.hfufsfuhudhsudhsuhduhdushduhsudhsuhshudhsuhdushdus"
+TELEGRAM_BOT_TOKEN="8839501473:ehuewuhuehEeuhewhuehewhewehuwh"
+TELEGRAM_CHAT_ID="8839501473"
+MONGODB_URI="mongodb://localhost:27017/leads"
+PORT=3001
+LOG_LEVEL="info"
